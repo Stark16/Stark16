@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stark16
-- 👀 I’m interested in AI
-- 🌱 I’m currently working as AI Engineer
+- 👀 I've over 3+ years of experience in AI
+- 🌱 I’ve a masters degree in Aritificial Intelligence
 - 💞️ I’m looking to collaborate on some Unique Ideas that may revolve around either AI or Robotics
 - 📫 Send me an e-mail, I would love to discuss on some unique ideas: pradyumnp508@gmail.com
 
