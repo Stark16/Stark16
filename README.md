@@ -1,4 +1,4 @@
-# 👋 **Hey there! I'm @Stark16**  
+# 👋 **Hey there! I'm Praddy**  
 
 🚀 **AI Engineer | Researcher | Innovator**  
 
