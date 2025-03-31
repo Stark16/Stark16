@@ -76,6 +76,8 @@ An AI-powered system that automates business card processing, enabling seamless 
 **🛠 Technologies Used:**  
 `AWS` `Python` `TensorFlow` `Google Tesseract` `YOLOv7` `NLP` `Generative AI`  
 
+**📌 Status:** <span style="color:orange;">Paused</span> ⏸️ 
+
 ---  
 
 💡 **Bonus Read:** If you're curious about a creative way to showcase how ML works, check out my write-up:  
