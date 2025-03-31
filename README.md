@@ -88,6 +88,6 @@ An AI-powered system that automates business card processing, enabling seamless 
 If you’re interested in collaborating on **AI-driven projects, robotics, or unique innovations**, feel free to reach out. Always happy to discuss new ideas! 🚀  
 
 📫 **Email:** pradyumnp508@gmail.com  
-🔗 **Connect on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
+🔗 **Connect on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradyumn-pathak/)  
 
 ---
