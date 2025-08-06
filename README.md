@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradyumn-pathak/)  
 
-- 🔬 Over **3+ years of experience** in AI & Machine Learning  
+- 🔬 Over **4 years of experience** in AI & Machine Learning  
 - 🎓 Master’s degree in **Artificial Intelligence**  
 - 🤖 Passionate about **AI, Robotics, and Unique Innovations**  
 - 💡 Always open to **collaborating** on groundbreaking ideas!  
